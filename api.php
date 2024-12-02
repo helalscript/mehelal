@@ -12,3 +12,6 @@ if(isset($_POST['id'])) {
     header("Content-Type: application/json");
     echo json_encode($thana);
 }
+
+
+//test
